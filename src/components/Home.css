@@ -1,0 +1,60 @@
+#img1{
+    height: 520px;
+    width: 1263px;
+}
+#topic1{
+    margin-top: 70px;
+ }
+ #vneck{
+   display: grid;
+   grid-template-columns: 350px 350px 350px;
+   padding: 20px;
+   margin-left: 100px;
+ }
+ #vneck img{
+   height: 300px;
+   width: 300px;
+   padding: 10px;
+   border: 2px solid black;
+   box-shadow: 3px 3px 3px black;
+   border-radius: 10px;
+ }
+
+ .topic2 {
+   margin-top: 40px;
+   width: 300px;
+
+ }
+ .topic2:hover{
+    background-color: black;
+    color: white;
+ }
+ #Oneck img{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    box-shadow: 3px 3px 3px black;
+
+    border-radius: 10px;
+
+  }
+#Oneck{
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    padding: 20px;
+    margin-left: 100px;
+}
+.topic3{
+    margin-top: 30px;
+}
+#logo img{
+    height: 100px;
+    width: 100px;
+}
+#logo{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    margin-left: 450px;
+    margin-top: 30px;
+}

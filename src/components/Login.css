@@ -1,0 +1,29 @@
+.loginimg img{
+    height: 525px;
+    width: 600px;
+}
+.login{
+    display: flex;
+    gap: 30px;
+}
+#info{
+   height: 200px;
+   margin-top: 150px;
+   margin-left: 150px;
+}
+#head{
+    padding: 20px;
+}
+#phn{
+    padding: 7px;
+    background-color: rgb(128, 238, 128);
+    border: none;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+#info input{
+    padding: 5px;
+}
+.email{
+    margin-left: 13px;
+}
